@@ -109,10 +109,10 @@ function createStars() {
     gift.style.top = '-50px';
   
     const messages = [
-      '🎁 Chúc anh có một giáng sinh an lành',
-      '🎄 Em là hộp quà của hộp nè',
+      '🎁 Merry Christmas and Happy New Year',
+      '🎄 Mong cậu sẽ thật hạnh phúc',
       '⭐ Giáng sinh không lạnhhh',
-      '🎅 Em yêu anhhhhh !',
+      '🎅 Love uuuu !',
     ];  
   
     gift.addEventListener('click', () => {
