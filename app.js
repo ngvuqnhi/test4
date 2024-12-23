@@ -7,7 +7,7 @@ $(document).ready(function () {
     cartPageBottomH4 = document.querySelector(".cart-page-bottom h4");
     let textTitle = "Merry Christmas!";
     let charArrTitle = textTitle.split('');
-let text = "Merry Christmas, Mẫn Khôi! 🎄✨     Chúc anh một mùa Giáng sinh tràn ngập niềm vui, hạnh phúc và may mắn và luôn có được em. Em luôn đếm từng ngày anh về với em, em hiểu những áp lực, mệt mỏi của anh hiện tại nhưng khom sao đã có vợ anh ở đây. 🎅🎁❤️Hy vọng mọi điều tốt đẹp nhất sẽ đến với anh trong năm mới nhé. Em yêu anhhhhh! ✨💫 "
+let text = "Merry Christmas and Happy New Year các fr! 🎄✨, Chúc các cậu một mùa giáng sinh thật bình an, hạnh phúc và luôn tràn ngập hồng của Thiên Chúa nhéeeeeee✨💫 "
 let charArrContent = text.split('');
 var currentIndexTitle = 0;
 var currentIndexContent = 0;
